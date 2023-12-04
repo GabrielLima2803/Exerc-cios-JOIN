@@ -55,8 +55,6 @@ Agora o seu banco de dados está pronto para ser utilizado com as consultas do q
 
 ## Informações
 
-O banco de dados fornecido contém as seguintes tabelas:
-
 - `professor`: Prof. Me. Daniel dos Santos Jr./Prof. Esp. Alann Kelly Pirchiner Perini.
 - `disciplina`: Banco de Dados.
 - `aluno`: Gabriel Lima De Souza.
