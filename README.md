@@ -9,6 +9,9 @@
    - Abra o arquivo em pdf na pasta Databases para ver as perguntas.
    - As questões resolvidas estão na pasta Questões
 
+3. **Explicação**
+   - Pdf de explicação sobre o comando JOIN na pasta de explicação (foi feito com meu conhecimento, se tiver algum erro pode falar que sempre ajuda).
+
 # Configuração do Banco de Dados
 
 ## Instruções para Execução do Script SQL
