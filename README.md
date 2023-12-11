@@ -58,7 +58,7 @@ Agora o seu banco de dados está pronto para ser utilizado com as consultas do q
 
 ## Informações
 
-- `professor`: Prof. Me. Daniel dos Santos Jr./Prof. Esp. Alann Kelly Pirchiner Perini.
-- `disciplina`: Banco de Dados.
-- `aluno`: Gabriel Lima De Souza.
+- `Professor`: Prof. Me. Daniel dos Santos Jr./Prof. Esp. Alann Kelly Pirchiner Perini.
+- `Disciplina`: Banco de Dados.
+- `Aluno`: Gabriel Lima De Souza.
 - `Turma`: 2info2.
